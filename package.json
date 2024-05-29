@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_net_web_server",
+  "version": "1.0.0",
+  "description": "A tcp web server implemantaion using nodejs with net",
+  "main": "tcp_server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yahely ushpiz",
+  "license": "ISC"
+}
